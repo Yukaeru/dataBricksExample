@@ -1,4 +1,4 @@
-## DataBrics使い方
+## DataBricks使い方
 <img width="685" height="561" alt="スクリーンショット 2026-03-06 午後6 20 38" src="https://github.com/user-attachments/assets/8ac3e662-02c9-40f5-bd48-6d10bd41aa9b" />
 ↑の新規> ノートブックから使えるようになる。
 
